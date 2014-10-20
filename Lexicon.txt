@@ -1,0 +1,7 @@
+contact n.接触vt.与…接触 3 9 342.333344
+countryside n.乡下地方 2 8 258.000000
+convenient a.便利的 2 8 258.000000
+continue v.继续 1 7 149.857147
+conduct n.行为；管理 1 9 120.111115
+control n.控制 0 9 9.000000
+crazy a.疯狂的 0 6 6.000000
